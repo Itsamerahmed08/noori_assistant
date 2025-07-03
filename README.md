@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dbf34f12-0bfe-4fd4-bfc0-3cc9f68cc9d7)# 🌟 Noori Assistant - AI Desktop Voice Assistant
+# 🌟 Noori Assistant - AI Desktop Voice Assistant
 
 ![Noori Logo](assets/logo/logo.png)
 
@@ -32,12 +32,21 @@
 
 | Main UI                 | Voice Command     |Output Example       |
 | ----------------------- | ----------------- |-------------------- |
-| ![UI](assets/bg/bg.png) | "open youtube " ||
-
+| ![UI](assets/bg/bg.png) | "open youtube" |
+                          |"open camera"   |
+                          |"what is the time"|
 
 output: 
 
 ![Screenshot 2025-07-03 112745](https://github.com/user-attachments/assets/b4fbd017-ebe6-4abd-a295-ccadfcc0fb4b)
+
+
+
+![Screenshot 2025-07-03 113502](https://github.com/user-attachments/assets/9b2ff8fe-fc42-4ba3-b139-6c4d0b644d49)
+
+
+![image](https://github.com/user-attachments/assets/cccc421c-a343-4186-9ec3-095cdad80fc1)
+
 
 
 
